@@ -1,1 +1,1 @@
-This is the class notes for the Predictive Analytics class.
+This is my class notes and project for my Predictive Analytics class
